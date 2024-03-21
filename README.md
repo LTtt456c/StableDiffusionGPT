@@ -1,2 +1,3 @@
 # StableDiffusionGPT
-StableDiffusionGPT
+StableDiffusionGPT-绘画大师
+一个基于stable Diffusion海量提示词库整合的助手,用户输入想要生成的图像后可以输出对于的StableDiffusionAI绘图提示词
