@@ -1,5 +1,5 @@
 # StableDiffusionGPT 介绍与背景
-一个基于Stable Diffusion海量提示词库整合的助手,用户输入想要生成的图像后可以输出对于的StableDiffusionAI绘图提示词
+一个基于Stable Diffusion海量提示词库整合的助手,用户输入想要生成的图像后可以输出对于的StableDiffusionAI绘图提示词  
 AI绘画目前也是比较火热的方向，如今不少初学者学习stable Diffusion 不会用提示词来生成图像也是难点之一。
 # 项目目标
 搭建 stable Diffusion提示词库
