@@ -14,3 +14,5 @@ AI绘画目前也是比较火热的方向，如今不少初学者学习stable Di
 3.模型微调                            进度( 0% )  
 4.接入RAG                             进度( 0% )  
 5.发布模型                            进度( 0% )  
+
+![Architecture process.png](image%2FArchitecture%20process.png)
